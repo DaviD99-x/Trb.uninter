@@ -1,0 +1,48 @@
+.html{
+    background-color: rgb(200, 245, 230);
+}
+
+.title{
+    text-align: center;
+    color: rgb(239, 178, 103);
+}
+
+.p{
+    font-size:x-large;
+    text-align: justify;
+}
+
+.l1{
+    margin-bottom: 20px;
+}
+
+.l2{
+    margin-bottom: 20px;
+}
+
+.l3{
+    margin-bottom: 20px;
+}
+
+.img{
+    height: 200px;
+    width: 200px;
+    border-radius: 5%
+}
+
+.table{
+    background-color: silver;
+    text-align: center;
+}
+
+.TD{
+    background-color:rgb(151, 151, 227);
+    text-align: center;
+}
+
+.link{
+    color:rgb(20, 98, 201);
+}
+.link:hover{
+    color:rgb(51, 199, 135);
+}
